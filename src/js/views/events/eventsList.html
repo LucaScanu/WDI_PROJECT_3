@@ -12,9 +12,11 @@
       <div class="info">
         <img class="user-img" src="{{ events.profilePicture }}">
         <h3>{{ event.name }}</h3>
+        <h3>{{ event.host._id }}</h3>
       </div>
     </li>
   </ul>
+
 </div>
 <h2 class="eventTitles" ng-hide="events.checkAttending">Attending</h2>
 <div class="container">
