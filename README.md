@@ -111,8 +111,6 @@ People matching service bringing people together using an activity to help peopl
 * User journey and wireframing (all team)
 
 - - - - - - - -
-- - - - - - - -
-- - - - - - - -
 
 
 ### Monday, 30th January 2017
