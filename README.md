@@ -26,12 +26,12 @@ The below outlines a more detailed standup report, that was filled in less rigor
 
 ### Technology Spotlight
 
-    ####"Bcrypt": "^1.0.2",
-    ####"Express-jwt": "^5.1.0",
-    ####"Jsonwebtoken": "^7.2.1",
-We used Bcrypt, Express-JWT and Jsonwebtoken in our user authentication system
+#####"Bcrypt": "^1.0.2",
+#####"Express-jwt": "^5.1.0",
+#####"Jsonwebtoken": "^7.2.1",
+We used **Bcrypt**, **Express-JWT** and **Jsonwebtoken** in our user authentication system
 
-Alongside these we used a NODE/EXPRESS back end with AngularJS front end, and a General Assembly ####Gulpfile which helped to streamline our production efforts.
+Alongside these we used a **NODE/EXPRESS** back end with **AngularJS** front end, and a General Assembly **Gulpfile** which helped to streamline our production efforts.
 
 
 ### Selection mechanism lesson
@@ -86,6 +86,8 @@ People matching service bringing people together using an activity to help peopl
 * Build boilerplate MEAN stack
 * Build boilerplate ANGULAR front-end
 * Draft user journey and pseudocode
+
+<img src="src/images/readme/trello.png">
 
 ####Afternoon conclusion:
 
@@ -166,4 +168,6 @@ Charlie getting event add and register working once more
 
 - - - - - - - - - - - -
 
-Beyond here we were all hands on deck working on the details of getting the app complete.
+<img src="src/images/readme/wireframes.png">
+<img src="src/images/readme/landingpage.png">
+<img src="src/images/readme/userprofile.png">
