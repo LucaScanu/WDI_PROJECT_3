@@ -12,11 +12,11 @@ CHARLIE
 
 For this project we were set a task to encapsulate everything we had done into a MEAN stack using restful routes and any other cool bits that we could think of.
 
-After several rounds of brainstorms in the classroom, pub and elsewhere we came together and decided that focusing our energy on an app that brings people together around a common theme would be nice. 
+After several rounds of brainstorms in the classroom, pub and elsewhere we came together and decided that focusing our energy on an app that brings people together around a common theme would be nice.
 
 ### Idea skeleton:
 
-A user can post an event they intend on attending, which becomes public and allows for other users that might be interesed in joining to browse the selection of events.
+A user can post an event they intend on attending, which becomes public and allows for other users that might be interested in joining to browse the selection of events.
 
 The working example we used was Luca, who was heading to a Trentemoller concert at the weekend. Trentemoller is a favourite for a few in the group:
 
@@ -26,12 +26,12 @@ The below outlines a more detailed standup report, that was filled in less rigor
 
 ### Technology Spotlight
 
-    "bcrypt": "^1.0.2",
-    "express-jwt": "^5.1.0",
-    "jsonwebtoken": "^7.2.1",
-We used bcrupt, Express-JWT and jsonwebtoken in our user authentication system
+    ####"Bcrypt": "^1.0.2",
+    ####"Express-jwt": "^5.1.0",
+    ####"Jsonwebtoken": "^7.2.1",
+We used Bcrypt, Express-JWT and Jsonwebtoken in our user authentication system
 
-Alongside these we used a NODE/EXPRESS back end with angular front end, and a General Assembly gulpfile which helped to streamline our production efforts.
+Alongside these we used a NODE/EXPRESS back end with AngularJS front end, and a General Assembly ####Gulpfile which helped to streamline our production efforts.
 
 
 ### Selection mechanism lesson
@@ -40,7 +40,7 @@ The main challenge in this project was generating a compelling UI - Luca in part
 
 ### Notifications and messaging shout-out
 
-The request and messaging system was a big win for the group and application, back end masterminded by Tom, and implemented into the UI by Sarah. 
+The request and messaging system was a big win for the group and application, back end masterminded by Tom, and implemented into the UI by Sarah.
 
 ### Branding shout-out
 
@@ -48,7 +48,7 @@ The logo and branding was owned by Remyce who used the M as a pair holding hands
 
 ### Conclusion
 
-Whilst this app may never reach the hights of the meetup/tinder inspiration it is drawn from, the functionality held within is formidable given our experience before the sprint (never built an app in angular, as a group or with github), and showcases many of the technologies that we had covered. A satisfying result to a hard weeks work. 
+Whilst this app may never reach the hights of the meetup/tinder inspiration it is drawn from, the functionality held within is formidable given our experience before the sprint (never built an app in angular, as a group or with github), and showcases many of the technologies that we had covered. A satisfying result to a hard weeks work.
 
 
 ### Standup Report
@@ -146,7 +146,7 @@ Charlie - Requests show on event page, and events show on user page.
 
 =======
 
-Main blocker is the matching engine and respective seed data. Spent the morning working through the issues with alex to build up a solid core.
+Main blocker is the matching engine and respective seed data. Spent the morning working through the issues with Alex to build up a solid core.
 
 ##### **2pm Stand-up**
 
@@ -164,6 +164,6 @@ Tom working on getting requests to show on profile page
 Sarah working on
 Charlie getting event add and register working once more
 
-- - - - - - - - - - - - 
+- - - - - - - - - - - -
 
 Beyond here we were all hands on deck working on the details of getting the app complete.

@@ -44,7 +44,7 @@ function createUsers(done){
       firstName: 'Thom',
       lastName: 'Yorke',
       email: 'thom@yorke.com',
-      profilePicture: 'http://static.stereogum.com/uploads/2015/03/Thom-Yorke.jpg',
+      profilePicture: 'https://static.stereogum.com/uploads/2015/03/Thom-Yorke.jpg',
       dob: '08/08/1968',
       lat: '51.522245',
       lng: '-0.083897',
