@@ -52,6 +52,8 @@ The request and messaging system was a big win for the group and application, ba
 
 The logo and branding was owned by Remyce who used the M as a pair holding hands - touch of genius.
 
+<img src="src/images/readme/clubMate(Orange).png">
+
 ### Conclusion
 
 Whilst this app may never reach the hights of the meetup/tinder inspiration it is drawn from, the functionality held within is formidable given our experience before the sprint (never built an app in angular, as a group or with github), and showcases many of the technologies that we had covered. A satisfying result to a hard weeks work.
